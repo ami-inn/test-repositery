@@ -6,3 +6,7 @@ some description
  ## Subheader
 
  watch turorial on youtube
+
+## local development
+
+open index.html in your browser
